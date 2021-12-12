@@ -1,0 +1,356 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+
+div ol li
+{
+	font-size:.8em;
+	list-style-type:none;
+	padding:5px;
+}
+
+dl
+{
+	margin-top:50px;
+	padding:50px;
+}
+
+dt
+{
+	padding:50px;
+}
+
+footer li
+{
+	color:#23272a;
+	font-size:.8em;
+	list-style-type:none;
+	padding:5px;
+	text-align:center;
+}
+
+footer
+{
+	background:#fff;
+	color:#23272a;
+	font-family:verdana;
+	padding-bottom:50px;
+	padding-top:50px;
+	text-align:left;
+}
+
+h1
+{
+	line-height:200%;
+}
+
+h2
+{
+	padding-top:0;
+}
+
+h4
+{
+	font-size:1em;
+	padding-left:40px;
+	text-align:center;
+	text-decoration:underline;
+}
+
+header
+{
+	font-weight:700;
+	text-align:center;
+}
+
+object
+{
+	max-width:1400px;
+}
+
+section a:active
+{
+	background-color:#828282;
+}
+
+section a:hover
+{
+	background-size:1000px;
+}
+
+section a:link,a:visited
+{
+	background-color:#b0b0b0;
+	border:2px solid #000;
+	color:#000;
+	float:left;
+	font-size:1.5em;
+	margin-left:50px;
+	padding:5px 10px;
+	text-decoration:none;
+}
+
+span
+{
+	background-color:#8B0000;
+}
+
+ul
+{
+	list-style-type:none;
+}
+
+.BlockBackground2
+{
+	background-color:grey;
+}
+
+.BlockBackground
+{
+	background-color:grey;
+	background-image:url('../images/Intro.jpg');
+	background-position:top;
+	background-size:cover;
+}
+
+.Description
+{
+	font-size:1.5em;
+	padding-bottom:150px;
+	padding-left:275px;
+}
+
+.NavButtons
+{
+	display:inline-block;
+}
+
+.NavHover:hover
+{
+	border-bottom:2px solid;
+	padding-bottom:13px;
+	padding-top:15px;
+}
+
+.NavHover
+{
+	color:#000;
+	padding:20px;
+	text-decoration:none;
+}
+
+.content2
+{
+	backdrop-filter:blur(5px);
+	background-color:rgba(255,255,255,0.7);
+	color:#000;
+	font-family:verdana;
+	margin:auto;
+	max-width:1600px;
+	padding:1px;
+}
+
+.content:hover
+{
+	backdrop-filter:blur(1px);
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.content
+{
+	backdrop-filter:blur(5px);
+	background-color:rgba(255,255,255,0.3);
+	color:#000;
+	font-family:verdana;
+	margin:auto;
+	max-width:1600px;
+	padding:1px;
+}
+
+.edges
+{
+	background:#eee;
+}
+
+.footerbutton:hover
+{
+	text-decoration:underline;
+}
+
+.footerbutton
+{
+	text-decoration:none;
+}
+
+.inline
+{
+	display:inline-block;
+	vertical-align:top;
+}
+
+.leftedge
+{
+	border-left:1px solid;
+	padding:5px;
+}
+
+.left
+{
+	float:left;
+}
+
+.right:hover
+{
+	background:#FAF9F6;
+}
+
+.rightedge
+{
+	border-right:1px solid;
+	padding:5px;
+}
+
+.right
+{
+	float:right;
+	margin-top:50px;
+	padding:15px;
+	text-align:right;
+}
+
+.titleMain
+{
+	margin-top:100px;
+}
+
+.titleSize
+{
+	font-size:2.75em;
+	margin-bottom:30px;
+	padding:75px 0 0 50px;
+}
+
+#Chapter1Img
+{
+	background-color:grey;
+	background-image:url('../images/Chapter1.avif');
+	background-position:center;
+	background-size:cover;
+}
+
+#Chapter2Img
+{
+	background-color:grey;
+	background-image:url('../images/Chapter2.webp');
+	background-position:center;
+	background-size:cover;
+}
+
+#Chapter3Img
+{
+	background-color:grey;
+	background-image:url('../images/Chapter3.jpg');
+	background-position:center;
+	background-size:cover;
+}
+
+#Chapter4Img
+{
+	background-color:grey;
+	background-image:url('../images/Chapter4.webp');
+	background-position:center;
+	background-size:cover;
+}
+
+#HeaderNavButtons
+{
+	margin-bottom:0;
+	padding-bottom:0;
+	padding-top:55px;
+}
+
+#footerAlign
+{
+	margin:auto;
+	max-width:1600px;
+	padding:1px;
+}
+
+#footerlogo
+{
+	height:auto;
+	width:400px;
+}
+
+#holder
+{
+	display:inline-block;
+	margin:0 auto;
+	width:1800px;
+}
+
+#homeButton
+{
+	background-color:rgba(255,255,255,0.3);
+	border-radius:10px;
+	bottom:20px;
+	cursor:pointer;
+	display:none;
+	font-size:30px;
+	padding:15px;
+	position:fixed;
+	right:30px;
+	z-index:99;
+}
+
+#homeButton:hover
+{
+	background-color:rgba(255,255,255,0.8);
+}
+
+#introduction
+{
+	font-size:3em;
+}
+
+#introtext
+{
+	margin-top:0;
+	padding:0 30px 30px;
+}
+
+#logo
+{
+	max-width:15em;
+	padding-top:20px;
+}
+
+#moveCenter
+{
+	margin-left:300px;
+}
+
+#summary
+{
+	margin-bottom:30px;
+	padding-top:0;
+}
+
+#team
+{
+	margin:50px;
+	text-align:center;
+}
+
+h3,.center
+{
+	text-align:center;
+}
+
+.footerbutton:link,.footerbutton:visited
+{
+	color:#23272a;
+}
